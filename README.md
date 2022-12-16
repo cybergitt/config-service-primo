@@ -1,1 +1,1 @@
-"# Config Service Primo" 
+# Config Service Primo
